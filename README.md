@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaykasliwalcodeuniverse&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaykasliwalcodeuniverse" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmaykasliwalcodeuniverse" alt="chinmaykasliwalcodeuniverse" /></a> </p>
-
 - 🌱 I’m currently learning BE(Information Technology) **Python,HTML,CSS,JAVA SCRIPT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chinmaykasliwalcodeuniverse](https://github.com/Chinmaykasliwalcodeuniverse)
