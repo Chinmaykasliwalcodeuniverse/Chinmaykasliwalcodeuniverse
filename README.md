@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chinmaykasliwaljain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmaykasliwaljain" height="30" width="40" /></a>
-<a href="https://instagram.com/@chinmay_kasliwal03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@chinmay_kasliwal03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucsqb_iad2pxjmiodqwpflma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsqb_iad2pxjmiodqwpflma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chinmay kasliwal jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmay kasliwal jain" height="30" width="40" /></a>
+<a href="https://instagram.com/chinmay_kasliwal03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinmay_kasliwal03" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mr.bharatian hacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr.bharatian hacker" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gfg(<chinmaykasliwal3>)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg(<chinmaykasliwal3>)" height="30" width="40" /></a>
 <a href="/https://chinmaykasliwalcodeuniverse.github.io/chinmaykasliwal.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chinmaykasliwalcodeuniverse.github.io/chinmaykasliwal.github.io/" height="30" width="40" /></a>
 </p>
